@@ -1,0 +1,61 @@
+about:
+  description: YAML templating tool that works on YAML structure instead of text
+  license: Apache-2.0
+  homepage: https://carvel.dev/ytt
+  head: 6a94bf4
+  archived: false
+  latestVersion: v0.55.2
+  collectedAt: 2026-08-31T05:49:10Z
+timeline:
+  created: 2019-03-01
+  lastCommit: 2026-08-25
+  lastRelease: 2026-08-14
+popularity:
+  star: 1874
+  watcher: 27
+  fork: 167
+  release: 104
+  contributor: 81
+  pullRequest: 73
+  issue: 544
+language:
+  Go: 1218081
+  JavaScript: 11633
+  CSS: 8649
+  Shell: 3678
+  HTML: 2119
+  PowerShell: 374
+totalLine: 1244534
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 1
+    mergedPR: 4
+    openPR: 3
+    closedIssue: 2
+    openIssue: 0
+    commit: 4
+  last90d:
+    since: 2026-06-02
+    release: 1
+    mergedPR: 7
+    openPR: 4
+    closedIssue: 2
+    openIssue: 0
+    commit: 10
+  last180d:
+    since: 2026-03-04
+    release: 4
+    mergedPR: 14
+    openPR: 6
+    closedIssue: 3
+    openIssue: 2
+    commit: 21
+  last360d:
+    since: 2025-09-05
+    release: 9
+    mergedPR: 22
+    openPR: 7
+    closedIssue: 7
+    openIssue: 2
+    commit: 25
