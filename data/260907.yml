@@ -5,18 +5,18 @@ about:
   head: 6a94bf4
   archived: false
   latestVersion: "v0.55.2"
-  collectedAt: 2026-09-07T05:22:15Z
+  collectedAt: 2026-09-07T19:09:27Z
 timeline:
   created: 2019-03-01
   lastCommit: 2026-08-25
   lastRelease: 2026-08-14
 popularity:
-  star: 1875
+  star: 1876
   watcher: 27
-  fork: 166
+  fork: 167
   release: 104
   contributor: 81
-  pullRequest: 427
+  pullRequest: 428
   issue: 545
 language:
   Go: 1218081
@@ -31,7 +31,7 @@ recent:
     since: 2026-08-08
     release: 1
     mergedPR: 1
-    openPR: 4
+    openPR: 5
     closedIssue: 1
     openIssue: 1
     commit: 3
@@ -39,7 +39,7 @@ recent:
     since: 2026-07-09
     release: 1
     mergedPR: 5
-    openPR: 4
+    openPR: 5
     closedIssue: 2
     openIssue: 1
     commit: 8
@@ -47,7 +47,7 @@ recent:
     since: 2026-06-09
     release: 1
     mergedPR: 5
-    openPR: 5
+    openPR: 6
     closedIssue: 2
     openIssue: 1
     commit: 10
@@ -55,7 +55,7 @@ recent:
     since: 2026-03-11
     release: 4
     mergedPR: 14
-    openPR: 7
+    openPR: 8
     closedIssue: 3
     openIssue: 3
     commit: 21
@@ -63,7 +63,7 @@ recent:
     since: 2025-09-12
     release: 8
     mergedPR: 21
-    openPR: 8
+    openPR: 9
     closedIssue: 7
     openIssue: 3
     commit: 25
@@ -71,20 +71,20 @@ recent:
     since: 2024-09-17
     release: 13
     mergedPR: 38
-    openPR: 8
+    openPR: 9
     closedIssue: 15
     openIssue: 7
     commit: 82
 total:
   release: 104
   mergedPR: 353
-  openPR: 11
+  openPR: 12
   closedIssue: 395
   openIssue: 150
   commit: 1321
 ---
 path: /home/runner/.x-repo/github.com/carvel-dev/ytt
-collectedAt: 2026-09-07T05:22:17Z
+collectedAt: 2026-09-07T19:09:29Z
 loc:
   Go:
     code: 78972
@@ -278,7 +278,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:22:18+00:00
+  collectedAt: 2026-09-07T19:09:30+00:00
   platform:
     darwin/arm64:
       name:  ytt-darwin-arm64
