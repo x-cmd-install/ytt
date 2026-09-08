@@ -5,7 +5,7 @@ about:
   head: 6a94bf4
   archived: false
   latestVersion: "v0.55.2"
-  collectedAt: 2026-09-08T02:34:49Z
+  collectedAt: 2026-09-08T05:32:00Z
 timeline:
   created: 2019-03-01
   lastCommit: 2026-08-25
@@ -84,7 +84,7 @@ total:
   commit: 1321
 ---
 path: /home/runner/.x-repo/github.com/carvel-dev/ytt
-collectedAt: 2026-09-08T02:34:56Z
+collectedAt: 2026-09-08T05:32:02Z
 loc:
   Go:
     code: 78972
