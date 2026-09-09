@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 590,
       "digest": "sha256:b2e69f17f8abf4a5e63bf12e291c750b3ea1d0d730ded9f5db48b778e8b7af27",
-      "download_count": 490,
+      "download_count": 524,
       "created_at": "2026-08-14T06:24:16Z",
       "updated_at": "2026-08-14T06:24:16Z",
       "browser_download_url": "https://github.com/carvel-dev/ytt/releases/download/v0.55.2/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3252,
       "digest": "sha256:7fa1e55d4621b3bed99f6393b3978ea22925e606cc7304225b02e108d9dd9d2a",
-      "download_count": 154,
+      "download_count": 172,
       "created_at": "2026-08-14T06:24:17Z",
       "updated_at": "2026-08-14T06:24:17Z",
       "browser_download_url": "https://github.com/carvel-dev/ytt/releases/download/v0.55.2/checksums.txt.pem"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:75207f50bf3e002300deb2b6c98c2098ffb8572f513093458b4fd6daca66ffbe",
-      "download_count": 156,
+      "download_count": 174,
       "created_at": "2026-08-14T06:24:16Z",
       "updated_at": "2026-08-14T06:24:16Z",
       "browser_download_url": "https://github.com/carvel-dev/ytt/releases/download/v0.55.2/checksums.txt.sig"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 18391856,
       "digest": "sha256:b7b8435cd5cca719b933b0bc846a0f872bd2ed0c68fa9b74ec8369bef2ac0987",
-      "download_count": 90,
+      "download_count": 94,
       "created_at": "2026-08-14T06:24:14Z",
       "updated_at": "2026-08-14T06:24:15Z",
       "browser_download_url": "https://github.com/carvel-dev/ytt/releases/download/v0.55.2/ytt-darwin-amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 17303202,
       "digest": "sha256:4a61ebc3cace9ed6c1f2d4cc7285589e85c58869d96bc36cb0d09987ec14fcd1",
-      "download_count": 220,
+      "download_count": 237,
       "created_at": "2026-08-14T06:24:14Z",
       "updated_at": "2026-08-14T06:24:15Z",
       "browser_download_url": "https://github.com/carvel-dev/ytt/releases/download/v0.55.2/ytt-darwin-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 17960640,
       "digest": "sha256:512cc21193d3b0ce307b6e8db6ba8d40831f16e02526e1c753416456ea4319af",
-      "download_count": 22702,
+      "download_count": 25257,
       "created_at": "2026-08-14T06:24:15Z",
       "updated_at": "2026-08-14T06:24:17Z",
       "browser_download_url": "https://github.com/carvel-dev/ytt/releases/download/v0.55.2/ytt-linux-amd64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 16769239,
       "digest": "sha256:6b09566cd9cbe90050c8685889aa1eef050c3f1168809df2486062e8a3ed1ec0",
-      "download_count": 576,
+      "download_count": 609,
       "created_at": "2026-08-14T06:24:14Z",
       "updated_at": "2026-08-14T06:24:15Z",
       "browser_download_url": "https://github.com/carvel-dev/ytt/releases/download/v0.55.2/ytt-linux-arm64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 18252288,
       "digest": "sha256:7ca5bc2c8f7f854ac88d2e66c9ffd4a13439597fc2c32b342691e46a488318eb",
-      "download_count": 370,
+      "download_count": 377,
       "created_at": "2026-08-14T06:24:15Z",
       "updated_at": "2026-08-14T06:24:17Z",
       "browser_download_url": "https://github.com/carvel-dev/ytt/releases/download/v0.55.2/ytt-windows-amd64.exe"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 16788992,
       "digest": "sha256:270f4446e8aefe6c73e5ac1901f60eb325213a9ba4d654c66bc028a1ec6056f8",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-08-14T06:24:14Z",
       "updated_at": "2026-08-14T06:24:15Z",
       "browser_download_url": "https://github.com/carvel-dev/ytt/releases/download/v0.55.2/ytt-windows-arm64.exe"
