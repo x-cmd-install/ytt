@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.55.2"
   latestRelease: "v0.55.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:37:19Z
+  collectedAt: 2026-09-11T19:15:29Z
 timeline:
   created: 2019-03-01
   lastCommit: 2026-08-25
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-14
   lastPrerelease: 
 popularity:
-  star: 1876
+  star: 1877
   watcher: 27
   fork: 167
   release: 104
@@ -88,7 +88,7 @@ total:
   commit: 1321
 ---
 path: /home/runner/.x-repo/github.com/carvel-dev/ytt
-collectedAt: 2026-09-11T05:37:20Z
+collectedAt: 2026-09-11T19:15:30Z
 loc:
   Go:
     code: 78972
