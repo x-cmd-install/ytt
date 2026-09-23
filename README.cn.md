@@ -4,7 +4,7 @@
 
 YAML templating tool that works on YAML structure instead of text
 
-[![x-cmd/install — ytt Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ytt.svg?lang=zh)](https://x-cmd.com/install/ytt)
+[![x-cmd/install — ytt Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ytt.svg?lang=zh)](https://x-cmd.com/install/ytt)
 
 ## 安装
 
@@ -58,12 +58,12 @@ x install ytt
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 4 | 0 | 1 | 0 |
-| last60d | 2026-07-24 | 1 | 4 | 6 | 2 | 1 | 8 |
-| 90d | 2026-06-24 | 1 | 5 | 7 | 2 | 1 | 10 |
-| last180d | 2026-03-26 | 4 | 13 | 9 | 2 | 1 | 18 |
-| 360d | 2025-09-27 | 8 | 21 | 10 | 7 | 3 | 25 |
-| last720d | 2024-10-02 | 13 | 38 | 10 | 15 | 7 | 81 |
+| 30d | 2026-08-24 | 0 | 0 | 4 | 0 | 1 | 0 |
+| last60d | 2026-07-25 | 1 | 4 | 6 | 2 | 1 | 8 |
+| 90d | 2026-06-25 | 1 | 5 | 7 | 2 | 1 | 10 |
+| last180d | 2026-03-27 | 4 | 12 | 9 | 2 | 1 | 18 |
+| 360d | 2025-09-28 | 8 | 21 | 10 | 7 | 3 | 25 |
+| last720d | 2024-10-03 | 13 | 38 | 10 | 15 | 7 | 81 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ ytt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:58:15Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:55:23Z._

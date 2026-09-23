@@ -4,7 +4,7 @@
 
 YAML templating tool that works on YAML structure instead of text
 
-[![x-cmd/install — ytt Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ytt.svg)](https://x-cmd.com/install/ytt)
+[![x-cmd/install — ytt Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ytt.svg)](https://x-cmd.com/install/ytt)
 
 ## Install
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 4 | 0 | 1 | 0 |
-| last60d | 2026-07-24 | 1 | 4 | 6 | 2 | 1 | 8 |
-| 90d | 2026-06-24 | 1 | 5 | 7 | 2 | 1 | 10 |
-| last180d | 2026-03-26 | 4 | 13 | 9 | 2 | 1 | 18 |
-| 360d | 2025-09-27 | 8 | 21 | 10 | 7 | 3 | 25 |
-| last720d | 2024-10-02 | 13 | 38 | 10 | 15 | 7 | 81 |
+| 30d | 2026-08-24 | 0 | 0 | 4 | 0 | 1 | 0 |
+| last60d | 2026-07-25 | 1 | 4 | 6 | 2 | 1 | 8 |
+| 90d | 2026-06-25 | 1 | 5 | 7 | 2 | 1 | 10 |
+| last180d | 2026-03-27 | 4 | 12 | 9 | 2 | 1 | 18 |
+| 360d | 2025-09-28 | 8 | 21 | 10 | 7 | 3 | 25 |
+| last720d | 2024-10-03 | 13 | 38 | 10 | 15 | 7 | 81 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for ytt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:58:14Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:55:22Z._
