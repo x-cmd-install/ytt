@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 1 | 1 | 3 | 0 | 1 | 1 |
-| last60d | 2026-07-29 | 2 | 5 | 6 | 2 | 1 | 7 |
-| 90d | 2026-06-29 | 2 | 6 | 7 | 2 | 1 | 11 |
-| last180d | 2026-03-31 | 5 | 13 | 9 | 2 | 1 | 19 |
-| 360d | 2025-10-02 | 9 | 22 | 10 | 6 | 3 | 26 |
-| last720d | 2024-10-07 | 14 | 39 | 10 | 15 | 7 | 83 |
+| 30d | 2026-08-29 | 1 | 1 | 3 | 0 | 1 | 1 |
+| last60d | 2026-07-30 | 2 | 5 | 6 | 2 | 1 | 7 |
+| 90d | 2026-06-30 | 2 | 6 | 7 | 2 | 1 | 11 |
+| last180d | 2026-04-01 | 5 | 13 | 9 | 2 | 1 | 19 |
+| 360d | 2025-10-03 | 9 | 22 | 10 | 6 | 3 | 26 |
+| last720d | 2024-10-08 | 14 | 39 | 10 | 15 | 7 | 83 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for ytt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:07:35Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:08:04Z._
