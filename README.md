@@ -14,11 +14,11 @@ x install ytt
 
 ## Code insight
 
-Total: **92,185** lines of code across **707** files in the top 5 languages.
+Total: **92,189** lines of code across **707** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 78,984 | 16,453 | 13,049 | 428 |
+| Go | 78,988 | 16,455 | 13,050 | 428 |
 | JavaScript | 8,226 | 1,024 | 1,059 | 2 |
 | Yaml | 4,264 | 1,141 | 693 | 263 |
 | Css | 478 | 50 | 68 | 2 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.55.3` (2026-09-23)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-14
 - **Assets in release**: 10
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 105 · **Merged PRs**: 357 · **Open PRs**: 14 · **Closed issues**: 395 · **Open issues**: 151 · **Commits**: 1332
+- **Releases**: 105 · **Merged PRs**: 358 · **Open PRs**: 13 · **Closed issues**: 395 · **Open issues**: 151 · **Commits**: 1334
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 1 | 3 | 2 | 0 | 1 | 6 |
-| last60d | 2026-08-15 | 1 | 4 | 5 | 0 | 2 | 8 |
-| 90d | 2026-07-16 | 2 | 8 | 7 | 2 | 2 | 15 |
-| last180d | 2026-04-17 | 5 | 15 | 10 | 2 | 2 | 24 |
-| 360d | 2025-10-19 | 9 | 25 | 11 | 6 | 4 | 32 |
-| last720d | 2024-10-24 | 14 | 42 | 11 | 14 | 8 | 92 |
+| 30d | 2026-09-15 | 1 | 3 | 2 | 0 | 1 | 7 |
+| last60d | 2026-08-16 | 1 | 4 | 5 | 0 | 2 | 9 |
+| 90d | 2026-07-17 | 2 | 9 | 6 | 2 | 2 | 16 |
+| last180d | 2026-04-18 | 5 | 16 | 9 | 2 | 2 | 25 |
+| 360d | 2025-10-20 | 9 | 26 | 10 | 6 | 4 | 33 |
+| last720d | 2024-10-25 | 14 | 43 | 10 | 14 | 8 | 94 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for ytt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:38:01Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:17:49Z._
