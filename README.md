@@ -14,11 +14,11 @@ x install ytt
 
 ## Code insight
 
-Total: **92,190** lines of code across **707** files in the top 5 languages.
+Total: **92,253** lines of code across **708** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 78,989 | 16,455 | 13,050 | 428 |
+| Go | 79,052 | 16,461 | 13,061 | 429 |
 | JavaScript | 8,226 | 1,024 | 1,059 | 2 |
 | Yaml | 4,264 | 1,141 | 693 | 263 |
 | Css | 478 | 50 | 68 | 2 |
@@ -42,43 +42,43 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.55.3` (2026-09-23)
-- **Last commit**: 2026-10-15
+- **Latest**: `v0.55.4` (2026-10-19)
+- **Last commit**: 2026-10-19
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 1,885 · **Forks**: 174 · **Open issues**: 546 · **Contributors**: 83
+- **Stars**: 1,885 · **Forks**: 176 · **Open issues**: 546 · **Contributors**: 83
 
 ## Totals (cumulative)
 
-- **Releases**: 105 · **Merged PRs**: 359 · **Open PRs**: 15 · **Closed issues**: 395 · **Open issues**: 151 · **Commits**: 1336
+- **Releases**: 106 · **Merged PRs**: 360 · **Open PRs**: 15 · **Closed issues**: 395 · **Open issues**: 151 · **Commits**: 1338
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 1 | 4 | 4 | 0 | 1 | 6 |
-| last60d | 2026-08-20 | 1 | 5 | 6 | 0 | 2 | 9 |
-| 90d | 2026-07-21 | 2 | 10 | 8 | 2 | 2 | 17 |
-| last180d | 2026-04-22 | 5 | 17 | 11 | 2 | 2 | 26 |
-| 360d | 2025-10-24 | 9 | 27 | 12 | 6 | 4 | 34 |
-| last720d | 2024-10-29 | 14 | 44 | 12 | 14 | 7 | 96 |
+| 30d | 2026-09-20 | 2 | 5 | 4 | 0 | 1 | 7 |
+| last60d | 2026-08-21 | 2 | 6 | 6 | 0 | 2 | 10 |
+| 90d | 2026-07-22 | 3 | 11 | 8 | 2 | 2 | 18 |
+| last180d | 2026-04-23 | 6 | 18 | 11 | 2 | 2 | 27 |
+| 360d | 2025-10-25 | 10 | 28 | 12 | 6 | 4 | 35 |
+| last720d | 2024-10-30 | 15 | 45 | 12 | 14 | 7 | 98 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/carvel-dev/ytt/releases/download/v0.55.3/checksums.txt) | 590 B | `other` |
-| [checksums.txt.pem](https://github.com/carvel-dev/ytt/releases/download/v0.55.3/checksums.txt.pem) | 3.2 KiB | `other` |
-| [checksums.txt.sig](https://github.com/carvel-dev/ytt/releases/download/v0.55.3/checksums.txt.sig) | 96 B | `other` |
-| [ytt-darwin-amd64](https://github.com/carvel-dev/ytt/releases/download/v0.55.3/ytt-darwin-amd64) | 17.5 MiB | `native/darwin/x64` |
-| [ytt-darwin-arm64](https://github.com/carvel-dev/ytt/releases/download/v0.55.3/ytt-darwin-arm64) | 16.5 MiB | `native/darwin/arm64` |
-| [ytt-linux-amd64](https://github.com/carvel-dev/ytt/releases/download/v0.55.3/ytt-linux-amd64) | 17.1 MiB | `native/linux/x64` |
-| [ytt-linux-arm64](https://github.com/carvel-dev/ytt/releases/download/v0.55.3/ytt-linux-arm64) | 16.0 MiB | `native/linux/arm64` |
-| [ytt-linux-riscv64](https://github.com/carvel-dev/ytt/releases/download/v0.55.3/ytt-linux-riscv64) | 15.7 MiB | `native/linux/riscv64` |
-| [ytt-windows-amd64.exe](https://github.com/carvel-dev/ytt/releases/download/v0.55.3/ytt-windows-amd64.exe) | 17.4 MiB | `native/win/x64` |
-| [ytt-windows-arm64.exe](https://github.com/carvel-dev/ytt/releases/download/v0.55.3/ytt-windows-arm64.exe) | 16.0 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/carvel-dev/ytt/releases/download/v0.55.4/checksums.txt) | 590 B | `other` |
+| [checksums.txt.pem](https://github.com/carvel-dev/ytt/releases/download/v0.55.4/checksums.txt.pem) | 3.1 KiB | `other` |
+| [checksums.txt.sig](https://github.com/carvel-dev/ytt/releases/download/v0.55.4/checksums.txt.sig) | 96 B | `other` |
+| [ytt-darwin-amd64](https://github.com/carvel-dev/ytt/releases/download/v0.55.4/ytt-darwin-amd64) | 17.5 MiB | `native/darwin/x64` |
+| [ytt-darwin-arm64](https://github.com/carvel-dev/ytt/releases/download/v0.55.4/ytt-darwin-arm64) | 16.5 MiB | `native/darwin/arm64` |
+| [ytt-linux-amd64](https://github.com/carvel-dev/ytt/releases/download/v0.55.4/ytt-linux-amd64) | 17.1 MiB | `native/linux/x64` |
+| [ytt-linux-arm64](https://github.com/carvel-dev/ytt/releases/download/v0.55.4/ytt-linux-arm64) | 16.0 MiB | `native/linux/arm64` |
+| [ytt-linux-riscv64](https://github.com/carvel-dev/ytt/releases/download/v0.55.4/ytt-linux-riscv64) | 15.7 MiB | `native/linux/riscv64` |
+| [ytt-windows-amd64.exe](https://github.com/carvel-dev/ytt/releases/download/v0.55.4/ytt-windows-amd64.exe) | 17.4 MiB | `native/win/x64` |
+| [ytt-windows-arm64.exe](https://github.com/carvel-dev/ytt/releases/download/v0.55.4/ytt-windows-arm64.exe) | 16.0 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -89,4 +89,4 @@ Install metadata for ytt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:19:31Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:37:33Z._
