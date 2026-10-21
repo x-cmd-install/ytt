@@ -31,8 +31,8 @@ x install ytt
 评分最低的几项:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install ytt
 
 ## 流行度
 
-- **Star**: 1,885 · **Fork**: 176 · **开放 issue**: 546 · **贡献者**: 83
+- **Star**: 1,885 · **Fork**: 170 · **开放 issue**: 546 · **贡献者**: 83
 
 ## 累计统计
 
-- **发布数**: 106 · **已合并 PR**: 360 · **开放 PR**: 15 · **已关闭 issue**: 395 · **开放 issue**: 151 · **提交数**: 1338
+- **发布数**: 106 · **已合并 PR**: 360 · **开放 PR**: 16 · **已关闭 issue**: 395 · **开放 issue**: 151 · **提交数**: 1338
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 2 | 5 | 4 | 0 | 1 | 7 |
-| last60d | 2026-08-21 | 2 | 6 | 6 | 0 | 2 | 10 |
-| 90d | 2026-07-22 | 3 | 11 | 8 | 2 | 2 | 18 |
-| last180d | 2026-04-23 | 6 | 18 | 11 | 2 | 2 | 27 |
-| 360d | 2025-10-25 | 10 | 28 | 12 | 6 | 4 | 35 |
-| last720d | 2024-10-30 | 15 | 45 | 12 | 14 | 7 | 98 |
+| 30d | 2026-09-21 | 2 | 5 | 4 | 0 | 1 | 7 |
+| last60d | 2026-08-22 | 2 | 6 | 7 | 0 | 2 | 10 |
+| 90d | 2026-07-23 | 3 | 11 | 9 | 2 | 2 | 18 |
+| last180d | 2026-04-24 | 6 | 18 | 12 | 2 | 2 | 27 |
+| 360d | 2025-10-26 | 10 | 28 | 13 | 6 | 4 | 35 |
+| last720d | 2024-10-31 | 15 | 45 | 13 | 14 | 7 | 98 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ ytt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261020.yml` · 2026-10-20T05:37:33Z._
+_数据快照: `data/card/261021.yml` · 2026-10-21T05:28:35Z._
