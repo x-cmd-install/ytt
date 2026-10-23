@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 106 · **Merged PRs**: 360 · **Open PRs**: 16 · **Closed issues**: 395 · **Open issues**: 151 · **Commits**: 1338
+- **Releases**: 106 · **Merged PRs**: 360 · **Open PRs**: 18 · **Closed issues**: 395 · **Open issues**: 151 · **Commits**: 1338
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 5 | 4 | 0 | 1 | 7 |
-| last60d | 2026-08-23 | 2 | 6 | 7 | 0 | 2 | 10 |
-| 90d | 2026-07-24 | 3 | 11 | 9 | 2 | 2 | 18 |
-| last180d | 2026-04-25 | 6 | 18 | 12 | 2 | 2 | 27 |
-| 360d | 2025-10-27 | 10 | 28 | 13 | 6 | 4 | 35 |
-| last720d | 2024-11-01 | 15 | 45 | 13 | 14 | 7 | 98 |
+| 30d | 2026-09-23 | 2 | 4 | 6 | 0 | 1 | 7 |
+| last60d | 2026-08-24 | 2 | 6 | 9 | 0 | 2 | 10 |
+| 90d | 2026-07-25 | 3 | 11 | 11 | 2 | 2 | 18 |
+| last180d | 2026-04-26 | 6 | 18 | 14 | 2 | 2 | 27 |
+| 360d | 2025-10-28 | 10 | 28 | 15 | 6 | 4 | 35 |
+| last720d | 2024-11-02 | 15 | 45 | 15 | 14 | 7 | 98 |
 
 ## Release assets
 
@@ -80,6 +80,16 @@ Lowest-scoring checks:
 | [ytt-windows-amd64.exe](https://github.com/carvel-dev/ytt/releases/download/v0.55.4/ytt-windows-amd64.exe) | 17.4 MiB | `native/win/x64` |
 | [ytt-windows-arm64.exe](https://github.com/carvel-dev/ytt/releases/download/v0.55.4/ytt-windows-arm64.exe) | 16.0 MiB | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **56** distros on [repology.org](https://repology.org/project/ytt). **8** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.55.4` | ✅ latest |
+| Nix unstable | `0.55.4` | ✅ latest |
+| Alpine edge | `0.52.1` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for ytt lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ytt` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -89,4 +99,4 @@ Install metadata for ytt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:23:07Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:27:35Z._
