@@ -14,11 +14,11 @@ x install ytt
 
 ## Code insight
 
-Total: **92,326** lines of code across **708** files in the top 5 languages.
+Total: **92,334** lines of code across **708** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 79,125 | 16,469 | 13,064 | 429 |
+| Go | 79,133 | 16,470 | 13,065 | 429 |
 | JavaScript | 8,226 | 1,024 | 1,059 | 2 |
 | Yaml | 4,264 | 1,141 | 693 | 263 |
 | Css | 478 | 50 | 68 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.55.4` (2026-10-19)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-29
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 1,884 · **Forks**: 169 · **Open issues**: 546 · **Contributors**: 84
+- **Stars**: 1,885 · **Forks**: 169 · **Open issues**: 546 · **Contributors**: 85
 
 ## Totals (cumulative)
 
-- **Releases**: 106 · **Merged PRs**: 363 · **Open PRs**: 15 · **Closed issues**: 398 · **Open issues**: 148 · **Commits**: 1347
+- **Releases**: 106 · **Merged PRs**: 364 · **Open PRs**: 14 · **Closed issues**: 399 · **Open issues**: 147 · **Commits**: 1349
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 1 | 6 | 3 | 0 | 1 | 10 |
-| last60d | 2026-08-30 | 2 | 9 | 5 | 0 | 2 | 16 |
-| 90d | 2026-07-31 | 3 | 13 | 8 | 2 | 2 | 24 |
-| last180d | 2026-05-02 | 5 | 21 | 11 | 2 | 2 | 33 |
-| 360d | 2025-11-03 | 10 | 31 | 12 | 5 | 4 | 41 |
-| last720d | 2024-11-08 | 14 | 46 | 12 | 13 | 7 | 101 |
+| 30d | 2026-09-30 | 1 | 6 | 2 | 0 | 1 | 11 |
+| last60d | 2026-08-31 | 2 | 10 | 4 | 0 | 2 | 17 |
+| 90d | 2026-08-01 | 3 | 14 | 7 | 2 | 2 | 25 |
+| last180d | 2026-05-03 | 5 | 22 | 10 | 2 | 2 | 34 |
+| 360d | 2025-11-04 | 10 | 32 | 11 | 5 | 4 | 42 |
+| last720d | 2024-11-09 | 14 | 47 | 11 | 13 | 7 | 103 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for ytt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:35:58Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:28:16Z._
