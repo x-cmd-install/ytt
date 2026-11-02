@@ -4,7 +4,7 @@
   binname: ytt
   visiblename: ytt
   version: 0.52.1
-  origversion: 0.52.1-r8
+  origversion: 0.52.1-r9
   status: outdated
   summary: YAML templating tool that works on YAML structure instead of text
   maintainers:
