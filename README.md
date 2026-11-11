@@ -31,8 +31,8 @@ Overall score: **6.5 / 10**
 Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,888 · **Forks**: 168 · **Open issues**: 546 · **Contributors**: 86
+- **Stars**: 1,889 · **Forks**: 168 · **Open issues**: 546 · **Contributors**: 86
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 1 | 6 | 1 | 0 | 1 | 5 |
-| last60d | 2026-09-11 | 2 | 10 | 2 | 0 | 1 | 17 |
-| 90d | 2026-08-12 | 3 | 11 | 5 | 1 | 2 | 20 |
-| last180d | 2026-05-14 | 5 | 22 | 6 | 2 | 2 | 33 |
-| 360d | 2025-11-15 | 10 | 33 | 9 | 4 | 4 | 42 |
-| last720d | 2024-11-20 | 14 | 48 | 9 | 13 | 6 | 105 |
+| 30d | 2026-10-12 | 1 | 6 | 2 | 0 | 0 | 5 |
+| last60d | 2026-09-12 | 2 | 10 | 3 | 0 | 1 | 17 |
+| 90d | 2026-08-13 | 3 | 11 | 5 | 1 | 2 | 20 |
+| last180d | 2026-05-15 | 4 | 21 | 6 | 2 | 2 | 33 |
+| 360d | 2025-11-16 | 10 | 33 | 9 | 4 | 4 | 42 |
+| last720d | 2024-11-21 | 14 | 48 | 9 | 13 | 6 | 105 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for ytt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:09:30Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:13:37Z._
