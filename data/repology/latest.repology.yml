@@ -1,3 +1,12 @@
+- repo: wakemeops
+  subrepo: devops
+  binname: carvel-ytt
+  visiblename: carvel-ytt
+  version: 0.52.0
+  origversion: 0.52.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: alpine_edge
   subrepo: testing
   srcname: ytt
@@ -60,7 +69,7 @@
   binname: ytt
   visiblename: textproc/ytt
   version: 0.55.4
-  origversion: 0.55.4_1
+  origversion: 0.55.4_2
   status: newest
   summary: YAML templating tool that works on YAML structure instead of text
   maintainers:
@@ -277,15 +286,6 @@
   visiblename: carvel-ytt
   version: 0.52.1
   origversion: 0.52.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: carvel-ytt
-  visiblename: carvel-ytt
-  version: 0.52.0
-  origversion: 0.52.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
