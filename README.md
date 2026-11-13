@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.55.4` (2026-10-19)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-11-12
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 1,889 · **Forks**: 168 · **Open issues**: 546 · **Contributors**: 86
+- **Stars**: 1,889 · **Forks**: 169 · **Open issues**: 546 · **Contributors**: 86
 
 ## Totals (cumulative)
 
-- **Releases**: 106 · **Merged PRs**: 365 · **Open PRs**: 12 · **Closed issues**: 400 · **Open issues**: 146 · **Commits**: 1351
+- **Releases**: 106 · **Merged PRs**: 366 · **Open PRs**: 12 · **Closed issues**: 400 · **Open issues**: 146 · **Commits**: 1352
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 1 | 6 | 2 | 0 | 0 | 5 |
-| last60d | 2026-09-13 | 2 | 10 | 3 | 0 | 1 | 17 |
-| 90d | 2026-08-14 | 3 | 11 | 5 | 0 | 2 | 20 |
-| last180d | 2026-05-16 | 4 | 21 | 6 | 2 | 2 | 33 |
-| 360d | 2025-11-17 | 10 | 33 | 9 | 4 | 4 | 42 |
-| last720d | 2024-11-22 | 14 | 48 | 9 | 13 | 6 | 105 |
+| 30d | 2026-10-14 | 1 | 7 | 2 | 0 | 0 | 6 |
+| last60d | 2026-09-14 | 2 | 11 | 3 | 0 | 1 | 18 |
+| 90d | 2026-08-15 | 2 | 12 | 5 | 0 | 2 | 21 |
+| last180d | 2026-05-17 | 4 | 22 | 6 | 2 | 2 | 34 |
+| 360d | 2025-11-18 | 10 | 33 | 9 | 4 | 4 | 43 |
+| last720d | 2024-11-23 | 14 | 49 | 9 | 13 | 6 | 106 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for ytt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:13:29Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:38:24Z._
