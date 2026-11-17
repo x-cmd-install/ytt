@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.55.4` (2026-10-19)
+- **Latest**: `v0.56.0` (2026-11-16)
 - **Last commit**: 2026-11-12
 - **Assets in release**: 10
 
@@ -52,42 +52,42 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 106 · **Merged PRs**: 366 · **Open PRs**: 12 · **Closed issues**: 400 · **Open issues**: 146 · **Commits**: 1352
+- **Releases**: 107 · **Merged PRs**: 366 · **Open PRs**: 12 · **Closed issues**: 400 · **Open issues**: 146 · **Commits**: 1352
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 4 | 2 | 0 | 0 | 1 |
-| last60d | 2026-09-17 | 2 | 11 | 3 | 0 | 1 | 17 |
-| 90d | 2026-08-18 | 2 | 12 | 5 | 0 | 2 | 19 |
-| last180d | 2026-05-20 | 4 | 22 | 6 | 2 | 2 | 32 |
-| 360d | 2025-11-21 | 10 | 33 | 9 | 4 | 4 | 43 |
-| last720d | 2024-11-26 | 14 | 49 | 9 | 13 | 6 | 106 |
+| 30d | 2026-10-18 | 2 | 4 | 2 | 0 | 0 | 1 |
+| last60d | 2026-09-18 | 3 | 11 | 3 | 0 | 1 | 17 |
+| 90d | 2026-08-19 | 3 | 12 | 5 | 0 | 2 | 19 |
+| last180d | 2026-05-21 | 5 | 22 | 6 | 2 | 2 | 32 |
+| 360d | 2025-11-22 | 11 | 33 | 9 | 4 | 4 | 43 |
+| last720d | 2024-11-27 | 15 | 49 | 9 | 13 | 6 | 106 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/carvel-dev/ytt/releases/download/v0.55.4/checksums.txt) | 590 B | `other` |
-| [checksums.txt.pem](https://github.com/carvel-dev/ytt/releases/download/v0.55.4/checksums.txt.pem) | 3.1 KiB | `other` |
-| [checksums.txt.sig](https://github.com/carvel-dev/ytt/releases/download/v0.55.4/checksums.txt.sig) | 96 B | `other` |
-| [ytt-darwin-amd64](https://github.com/carvel-dev/ytt/releases/download/v0.55.4/ytt-darwin-amd64) | 17.5 MiB | `native/darwin/x64` |
-| [ytt-darwin-arm64](https://github.com/carvel-dev/ytt/releases/download/v0.55.4/ytt-darwin-arm64) | 16.5 MiB | `native/darwin/arm64` |
-| [ytt-linux-amd64](https://github.com/carvel-dev/ytt/releases/download/v0.55.4/ytt-linux-amd64) | 17.1 MiB | `native/linux/x64` |
-| [ytt-linux-arm64](https://github.com/carvel-dev/ytt/releases/download/v0.55.4/ytt-linux-arm64) | 16.0 MiB | `native/linux/arm64` |
-| [ytt-linux-riscv64](https://github.com/carvel-dev/ytt/releases/download/v0.55.4/ytt-linux-riscv64) | 15.7 MiB | `native/linux/riscv64` |
-| [ytt-windows-amd64.exe](https://github.com/carvel-dev/ytt/releases/download/v0.55.4/ytt-windows-amd64.exe) | 17.4 MiB | `native/win/x64` |
-| [ytt-windows-arm64.exe](https://github.com/carvel-dev/ytt/releases/download/v0.55.4/ytt-windows-arm64.exe) | 16.0 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/carvel-dev/ytt/releases/download/v0.56.0/checksums.txt) | 590 B | `other` |
+| [checksums.txt.pem](https://github.com/carvel-dev/ytt/releases/download/v0.56.0/checksums.txt.pem) | 3.1 KiB | `other` |
+| [checksums.txt.sig](https://github.com/carvel-dev/ytt/releases/download/v0.56.0/checksums.txt.sig) | 96 B | `other` |
+| [ytt-darwin-amd64](https://github.com/carvel-dev/ytt/releases/download/v0.56.0/ytt-darwin-amd64) | 18.6 MiB | `native/darwin/x64` |
+| [ytt-darwin-arm64](https://github.com/carvel-dev/ytt/releases/download/v0.56.0/ytt-darwin-arm64) | 17.5 MiB | `native/darwin/arm64` |
+| [ytt-linux-amd64](https://github.com/carvel-dev/ytt/releases/download/v0.56.0/ytt-linux-amd64) | 18.3 MiB | `native/linux/x64` |
+| [ytt-linux-arm64](https://github.com/carvel-dev/ytt/releases/download/v0.56.0/ytt-linux-arm64) | 17.0 MiB | `native/linux/arm64` |
+| [ytt-linux-riscv64](https://github.com/carvel-dev/ytt/releases/download/v0.56.0/ytt-linux-riscv64) | 16.7 MiB | `native/linux/riscv64` |
+| [ytt-windows-amd64.exe](https://github.com/carvel-dev/ytt/releases/download/v0.56.0/ytt-windows-amd64.exe) | 18.5 MiB | `native/win/x64` |
+| [ytt-windows-arm64.exe](https://github.com/carvel-dev/ytt/releases/download/v0.56.0/ytt-windows-arm64.exe) | 17.0 MiB | `native/win/arm64` |
 
 ## Distribution status
 
-Reported by **56** distros on [repology.org](https://repology.org/project/ytt). **8** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **56** distros on [repology.org](https://repology.org/project/ytt). **6** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.55.4` | ✅ latest |
-| Nix unstable | `0.55.4` | ✅ latest |
+| Homebrew | `0.56.0` | ✅ latest |
+| Nix unstable | `0.55.4` | ⚠️ outdated |
 | Alpine edge | `0.52.1` | ⚠️ outdated |
 
 ## Improve this data
@@ -99,4 +99,4 @@ Install metadata for ytt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:50:16Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:47:07Z._
