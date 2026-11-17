@@ -1,12 +1,16 @@
-- repo: wakemeops
-  subrepo: devops
-  binname: carvel-ytt
-  visiblename: carvel-ytt
+- repo: nix_stable_25_05
+  srcname: ytt
+  visiblename: ytt
   version: 0.52.0
-  origversion: 0.52.0-1~ops2deb
-  status: legacy
+  origversion: null
+  status: outdated
+  summary: YAML templating tool that allows configuration of complex software via reusable templates with user-provided values
   maintainers:
-    - ops2deb@upciti.com
+    - me@brod.es
+    - techknowlogick@gitea.com
+    - gnuetzi@gmail.com
+  licenses:
+    - Apache-2.0
 - repo: alpine_edge
   subrepo: testing
   srcname: ytt
@@ -24,8 +28,8 @@
   srcname: ytt
   binname: ytt
   visiblename: ytt
-  version: 0.55.4
-  origversion: 0.55.4-1
+  version: 0.56.0
+  origversion: 0.56.0-1
   status: newest
   summary: YAML templating tool that works on YAML structure instead of text
   maintainers:
@@ -37,8 +41,8 @@
   srcname: ytt-bin
   binname: ytt-bin
   visiblename: ytt-bin
-  version: 0.55.4
-  origversion: 0.55.4-1
+  version: 0.56.0
+  origversion: 0.56.0-1
   status: newest
   summary: YAML templating tool that works on YAML structure instead of text
   maintainers:
@@ -68,8 +72,8 @@
   srcname: textproc/ytt
   binname: ytt
   visiblename: textproc/ytt
-  version: 0.55.4
-  origversion: 0.55.4_2
+  version: 0.56.0
+  origversion: null
   status: newest
   summary: YAML templating tool that works on YAML structure instead of text
   maintainers:
@@ -79,7 +83,7 @@
 - repo: homebrew
   srcname: ytt
   visiblename: ytt
-  version: 0.55.4
+  version: 0.56.0
   origversion: null
   status: newest
   summary: YAML templating tool that works on YAML structure instead of text
@@ -94,7 +98,7 @@
   srcname: textproc/ytt
   binname: ytt
   visiblename: ytt
-  version: 0.55.4
+  version: 0.56.0
   origversion: null
   status: newest
   summary: YAML templating tool that works on YAML structure instead of text
@@ -120,19 +124,6 @@
   srcname: ytt
   visiblename: ytt
   version: 0.51.0
-  origversion: null
-  status: outdated
-  summary: YAML templating tool that allows configuration of complex software via reusable templates with user-provided values
-  maintainers:
-    - me@brod.es
-    - techknowlogick@gitea.com
-    - gnuetzi@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: ytt
-  visiblename: ytt
-  version: 0.52.0
   origversion: null
   status: outdated
   summary: YAML templating tool that allows configuration of complex software via reusable templates with user-provided values
@@ -173,7 +164,7 @@
   visiblename: ytt
   version: 0.55.4
   origversion: null
-  status: newest
+  status: outdated
   summary: YAML templating tool that allows configuration of complex software via reusable templates with user-provided values
   maintainers:
     - me@brod.es
@@ -185,7 +176,7 @@
   subrepo: main
   binname: ytt
   visiblename: ytt
-  version: 0.55.4
+  version: 0.56.0
   origversion: null
   status: newest
   licenses:
@@ -196,7 +187,7 @@
   visiblename: carvel-ytt
   version: 0.55.4
   origversion: 0.55.4-1~ops2deb
-  status: newest
+  status: outdated
   maintainers:
     - ops2deb@upciti.com
 - repo: wakemeops
@@ -286,6 +277,15 @@
   visiblename: carvel-ytt
   version: 0.52.1
   origversion: 0.52.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: carvel-ytt
+  visiblename: carvel-ytt
+  version: 0.52.0
+  origversion: 0.52.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
