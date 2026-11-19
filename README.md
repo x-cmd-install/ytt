@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,889 · **Forks**: 170 · **Open issues**: 546 · **Contributors**: 86
+- **Stars**: 1,890 · **Forks**: 171 · **Open issues**: 546 · **Contributors**: 86
 
 ## Totals (cumulative)
 
-- **Releases**: 107 · **Merged PRs**: 366 · **Open PRs**: 12 · **Closed issues**: 400 · **Open issues**: 146 · **Commits**: 1352
+- **Releases**: 107 · **Merged PRs**: 366 · **Open PRs**: 14 · **Closed issues**: 400 · **Open issues**: 146 · **Commits**: 1352
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 2 | 4 | 2 | 0 | 0 | 1 |
-| last60d | 2026-09-18 | 3 | 11 | 3 | 0 | 1 | 17 |
-| 90d | 2026-08-19 | 3 | 12 | 5 | 0 | 2 | 19 |
-| last180d | 2026-05-21 | 5 | 22 | 6 | 2 | 2 | 32 |
-| 360d | 2025-11-22 | 11 | 33 | 9 | 4 | 4 | 43 |
-| last720d | 2024-11-27 | 15 | 49 | 9 | 13 | 6 | 106 |
+| 30d | 2026-10-20 | 1 | 2 | 4 | 0 | 0 | 1 |
+| last60d | 2026-09-20 | 3 | 11 | 5 | 0 | 1 | 17 |
+| 90d | 2026-08-21 | 3 | 12 | 6 | 0 | 2 | 19 |
+| last180d | 2026-05-23 | 5 | 22 | 8 | 2 | 2 | 32 |
+| 360d | 2025-11-24 | 11 | 33 | 11 | 4 | 4 | 43 |
+| last720d | 2024-11-29 | 15 | 49 | 11 | 13 | 5 | 106 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for ytt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:47:07Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:15:00Z._
