@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 1 | 5 | 0 | 0 | 1 |
-| last60d | 2026-09-25 | 2 | 9 | 6 | 0 | 1 | 13 |
-| 90d | 2026-08-26 | 3 | 11 | 7 | 0 | 2 | 18 |
-| last180d | 2026-05-28 | 5 | 19 | 10 | 2 | 2 | 30 |
-| 360d | 2025-11-29 | 11 | 32 | 13 | 4 | 4 | 42 |
-| last720d | 2024-12-04 | 15 | 46 | 13 | 13 | 5 | 106 |
+| 30d | 2026-10-26 | 1 | 1 | 5 | 0 | 0 | 1 |
+| last60d | 2026-09-26 | 2 | 9 | 6 | 0 | 1 | 13 |
+| 90d | 2026-08-27 | 3 | 11 | 7 | 0 | 2 | 18 |
+| last180d | 2026-05-29 | 5 | 19 | 10 | 2 | 2 | 30 |
+| 360d | 2025-11-30 | 11 | 32 | 13 | 4 | 4 | 42 |
+| last720d | 2024-12-05 | 15 | 46 | 13 | 13 | 5 | 105 |
 
 ## Release assets
 
@@ -80,16 +80,6 @@ Lowest-scoring checks:
 | [ytt-windows-amd64.exe](https://github.com/carvel-dev/ytt/releases/download/v0.56.0/ytt-windows-amd64.exe) | 18.5 MiB | `native/win/x64` |
 | [ytt-windows-arm64.exe](https://github.com/carvel-dev/ytt/releases/download/v0.56.0/ytt-windows-arm64.exe) | 17.0 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **56** distros on [repology.org](https://repology.org/project/ytt). **6** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.56.0` | ✅ latest |
-| Nix unstable | `0.55.4` | ⚠️ outdated |
-| Alpine edge | `0.52.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for ytt lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ytt` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -99,4 +89,4 @@ Install metadata for ytt lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:28:08Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:01:56Z._
